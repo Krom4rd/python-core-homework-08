@@ -6,7 +6,7 @@
 """
 
 import unittest
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, date
 from unittest.mock import patch
 
 from main import get_birthdays_per_week
